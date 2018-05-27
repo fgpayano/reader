@@ -1,0 +1,5 @@
+ALBERT|DARK|21|example1@example.com
+MARK|SUS|28|example2@example.com
+RICK|ESTE|19|example3@example.com
+CLARK|BIRD|22|example4@example.com
+SPACE|DARKS|18|example5@example.com
